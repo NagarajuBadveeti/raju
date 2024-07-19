@@ -19,6 +19,7 @@ function Ambulance() {
       <center>
       <h1>hii ra maw</h1>
       <h1>hii ra ravi</h1>
+      <h1>hii ra ravi</h1>
         <img src={Image2} alt="Ambulance" />
       </center>
     </div>
