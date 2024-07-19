@@ -17,6 +17,7 @@ function Ambulance() {
         The term ambulance comes from the Latin word "ambulare" meaning "to walk or move about," which is a reference to early medical care where patients were moved by lifting or wheeling. The word originally meant a moving hospital, which follows an army in its movements. Ambulances were first used for emergency transport in 1487 by the Spanish forces during the siege of Málaga by the Catholic Monarchs against the Emirate of Granada. During the American Civil War, vehicles for conveying the wounded off the field of battle were called ambulance wagons. Field hospitals were still called ambulances during the Franco-Prussian War of 1870 and in the Serbo-Turkish war of 1876 even though the wagons were first referred to as ambulances around 1854 during the Crimean War.
       </p>
       <center>
+      <h1>hii ra maw</h1>
         <img src={Image2} alt="Ambulance" />
       </center>
     </div>
