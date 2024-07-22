@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes,Route} from 'react-router-dom';
 import Raju from './Components/raju';
 import Ambulance from './Components/raju1';
+ 
 
  
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
       <Routes>
       <Route path="/raju" Component={Raju}/>
       <Route path="/amb" Component={Ambulance}/>
+      
          
 
           </Routes>
